@@ -1,0 +1,16 @@
+.Barralateral {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    background-color: rgb(65, 100, 196);
+    padding: 1px;
+}
+
+.title-container {
+    flex-grow: 1; 
+    text-align: center; 
+}
+
+.title-container h1 {
+    color: white;
+}
